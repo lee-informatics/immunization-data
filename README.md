@@ -1,4 +1,4 @@
-# ASU CDS Data
+# CDC Immunization Data
 
 This project provides a turnkey FHIR controller for loading FHIR seed data into a locally running FHIR resource server. See [GitHub](https://github.com/lee-informatics/immunization-data) for source.
 
