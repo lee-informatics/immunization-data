@@ -16,6 +16,10 @@
     {
       "name": "Immunization Dashboard",
       "url": "https://immunization-dashboard.ph.hl7.org/"
+    },
+    {
+      "name": "Immunization localhost",
+      "url": "http://localhost:4204/"
     }
   ],
   "data": [
