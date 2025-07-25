@@ -14,7 +14,7 @@
       "url": "https://immunization-data.ph.hl7.org/?url=https://immunization-data.ph.hl7.org/stack-QHIN-hosted.json"
     },
     {
-      "name": "Immunization Dashboard (localhost)",
+      "name": "Immunization Dashboard",
       "url": "https://immunization-dashboard.ph.hl7.org/"
     }
   ],

@@ -19,7 +19,7 @@
     },
     {
       "name": "Immunization Hosted",
-      "url": "https://immunization-dashboard.ph.hl7.org/?url=https://immunization-data.ph.hl7.org/stack-hosted.json"
+      "url": "https://immunization-data.ph.hl7.org/?url=https://immunization-data.ph.hl7.org/stack-hosted.json"
     }
   ],
   "data": [
