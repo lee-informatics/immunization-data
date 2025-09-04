@@ -1,16 +1,16 @@
 {
   "$schema": "https://stack.skycapp.com/stack.schema.json",
-  "title": "QHIN Seed Data & Stack Controller",
+  "title": "QHIN Synthetic Data FHIR Controller",
   "instructions": "Load the Synthea-generated data files, below, into a FHIR R4-compliant server to run and customize your own demos. Larger files may take several minutes to load.",
   "fhir_base_url": "https://immunization-qhin.ph.hl7.org/fhir",
   "driver": "hapi",
   "links": [
     {
-      "name": "State IIS Stack Controller",
+      "name": "State IIS FHIR Controller",
       "url": "https://immunization-data.ph.hl7.org/?url=https://immunization-data.ph.hl7.org/stack-hosted.json"
     },
     {
-      "name": "QHIN Stack Controller",
+      "name": "QHIN FHIR Controller",
       "url": "https://immunization-data.ph.hl7.org/?url=https://immunization-data.ph.hl7.org/stack-QHIN-hosted.json"
     },
     {
