@@ -1,4 +1,4 @@
-# CDC Immunization Data
+# CDC Immunization Synthetic Data FHIR Controller
 
 This project provides a turnkey FHIR controller for loading FHIR seed data into a locally running FHIR resource server. See [GitHub](https://github.com/lee-informatics/immunization-data) for source.
 
